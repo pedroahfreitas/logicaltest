@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>71635324223-ac2tr9ss24dqj9sopj8k4mcbaal73o0b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.71635324223-ac2tr9ss24dqj9sopj8k4mcbaal73o0b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAtX1O3kK3sAUt8Iz3tZJvEVbkqS1PLd2E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>71635324223</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.logicaltestmainMain.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>logicaltest-19836</string>
+	<key>STORAGE_BUCKET</key>
+	<string>logicaltest-19836.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:71635324223:ios:21170200e688724ab7978a</string>
+	<key>DATABASE_URL</key>
+	<string>https://logicaltest-19836-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
